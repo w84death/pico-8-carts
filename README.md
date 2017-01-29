@@ -43,5 +43,5 @@ I don't have a clear path what it will be. But slowly the idea starts to grow.
 - guide rabbits using carrots to their homes on each level
 - talk to MPCs to unlock parts of the map
 
-## Experimetns
+## Experiments
 - dora.p8 is a simple sprite generator with gradiental change
