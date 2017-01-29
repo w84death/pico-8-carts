@@ -12,13 +12,15 @@ Prototype of a game started at the [Hangover Jam 2017](http://hangoverjam.p1x.in
 
 ## Happy LIttle Island
 
-![gif](http://pico8.p1x.in/gifs/hli-screen1.gif)
+![git](http://pico8.p1x.in/gifs/hli-title.png)
 
 After the Redhood I started to develop a sofisticated pico-8 game engine for RPG like games. 
 Also I wanted to push my pixel art skills to the new levels. So this is more like a sandbbox for learning and discovering than a game.
 I don't have a clear path what it will be. But slowly the idea starts to grow.
 
 ### Engine
+
+![gif](http://pico8.p1x.in/gifs/hli-dev.gif)
 
 - state machine (intro/menu/game/end game)
 - fluid camera movement (Zelda like) over the level (2x2 screen size for each level)
@@ -28,6 +30,9 @@ I don't have a clear path what it will be. But slowly the idea starts to grow.
 - (todo) dialog system
 
 ### Pixels
+
+![gif](http://pico8.p1x.in/gifs/hli-screen2.gif)
+![gif](http://pico8.p1x.in/gifs/hli-screen3.gif)
 
 - sub-pixel animation for entities
 - trees made of 2 sprites and a third combining sprite makeing forests easy and good looking
